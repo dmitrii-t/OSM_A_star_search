@@ -1,0 +1,9 @@
+{
+  "name": "cpp-route-planner",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "pkgconf",
+    "io2d"
+  ],
+  "builtin-baseline": "b2a47d316de1f3625ea43a7ca3e42dd28c52ece7"
+}
